@@ -20,12 +20,3 @@ This project demonstrates how to build a simple feedforward neural network using
 
 ## Files
 - `mnist_ffnn_classifier.ipynb` – Google Colab notebook containing the implementation.  
-
-## Requirements
-This project is built and run in Google Colaboratory. The following libraries are required:
-- TensorFlow
-- Keras
-- NumPy 
-
-## License
-This project is open-source and available under the MIT License.  
